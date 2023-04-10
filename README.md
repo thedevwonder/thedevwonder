@@ -8,6 +8,4 @@
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: This profile will keep changing as I learn more. I'm a developer staged for commit.
 
-```
-Check out my lab: [lab.yashasva.in](lab.yashasva.in)
-```
+Check out my lab: [lab.yashasva.in](https://lab.yashasva.in)
